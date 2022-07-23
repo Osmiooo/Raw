@@ -1,0 +1,9 @@
+{
+  "values": [
+    "raw:raw_coal_block",
+    "raw:raw_lapis_block",
+    "raw:raw_redstone_block",
+    "raw:raw_diamond_block",
+    "raw:raw_emerald_block"
+  ]
+}

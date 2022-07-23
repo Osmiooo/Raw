@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "raw",
+  "version": "${version}",
+
+  "name": "Raw",
+  "description": "The worst mod in existence",
+  "authors": [
+    "Osmiooo"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/raw/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "osmiooo.raw.Raw"
+    ]
+  },
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

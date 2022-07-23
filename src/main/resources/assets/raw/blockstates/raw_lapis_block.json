@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "raw:block/raw_lapis_block"
+    }
+  }
+}

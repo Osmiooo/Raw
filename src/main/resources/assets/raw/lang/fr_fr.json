@@ -1,0 +1,12 @@
+{
+  "item.raw.raw_coal": "Charbon brut",
+  "block.raw.raw_coal_block": "Bloc de charbon brut",
+  "item.raw.raw_lapis": "Lapis-Lazuli brut",
+  "block.raw.raw_lapis_block": "Bloc de Lapis-Lazuli brut",
+  "item.raw.raw_redstone": "Redstone brute",
+  "block.raw.raw_redstone_block": "Bloc de redstone brute",
+  "item.raw.raw_diamond": "Diamant brut",
+  "block.raw.raw_diamond_block": "Bloc de diamant brut",
+  "item.raw.raw_emerald": "Émeraude brute",
+  "block.raw.raw_emerald_block": "Bloc d'émeraude brut"
+}

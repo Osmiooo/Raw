@@ -1,0 +1,67 @@
+{
+  "display": {
+    "icon": {
+      "item": "raw:raw_diamond"
+    },
+    "title": {
+      "translate": "Raw to the Core"
+    },
+    "description": {
+      "text": "Have all 8 raw ores in your inventory"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:story/mine_diamond",
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "raw:raw_emerald"
+            ]
+          },
+          {
+            "items": [
+              "raw:raw_diamond"
+            ]
+          },
+          {
+            "items": [
+              "raw:raw_redstone"
+            ]
+          },
+          {
+            "items": [
+              "raw:raw_lapis"
+            ]
+          },
+          {
+            "items": [
+              "raw:raw_coal"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:raw_iron"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:raw_copper"
+            ]
+          },
+          {
+            "items": [
+              "minecraft:raw_gold"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

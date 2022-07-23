@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "raw:raw_diamond"
+        }
+    },
+    "result": {
+        "item": "raw:raw_diamond_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "raw:raw_redstone"
+        }
+    },
+    "result": {
+        "item": "raw:raw_redstone_block",
+        "count": 1
+    }
+}
