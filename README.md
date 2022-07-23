@@ -1,16 +1,16 @@
 Welcome to the Raw mod! 
 This mod adds raw items and blocks for every ore that doesn't have one, that includes:
 
-  Raw Coal
-  Raw Coal Block
-  Raw Lapis-Lazuli
-  Raw Lapis-Lazuli Block
-  Raw Redstone
-  Raw Redstone Block
-  Raw Diamond
-  Raw Diamond Block
-  Raw Emerald
-  Raw Emerald Block
+ - Raw Coal
+ - Raw Coal Block
+ - Raw Lapis-Lazuli
+ - Raw Lapis-Lazuli Block
+ - Raw Redstone
+ - Raw Redstone Block
+ - Raw Diamond
+ - Raw Diamond Block
+ - Raw Emerald
+ - Raw Emerald Block
   
 You will obtain the items when breaking the ore, you can smelt them to get the ore and you can use 9 raw items to craft a raw block. 
 So yes, you need to smelt raw coal with wood to obtain coal. 
